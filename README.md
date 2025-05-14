@@ -103,26 +103,11 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 📧 Contact
 For any questions or collaboration inquiries, please reach out:
 
-Your Name
-📫 your.email@example.com
-🔗 LinkedIn Profile
-
 ⚖️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
 yaml
 Copy
 Edit
-
 ---
-
-Would you like me to also generate a `requirements.txt` file or deploy-ready Streamlit version of the project?
-
-
-
-
-
-
-
 
 
